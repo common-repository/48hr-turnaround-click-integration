@@ -1,0 +1,4 @@
+*** Click Changelog ***
+
+2016.04.26 - version 1.0
+ * First Release
